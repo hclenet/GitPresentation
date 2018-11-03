@@ -3,7 +3,7 @@
 
 La présentation est réalisée au format MarkDown avec [MARP](https://yhatt.github.io/marp/).
 
-Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/).
+Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :sunglasses:.
 
  ## Obtenir la présentation : 
 - Au [format PDF](gitSlides.pdf)
