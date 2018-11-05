@@ -4,11 +4,10 @@
 Initiation à Github
 ===
 
-<center>
-  
-![50%](images/githublogo.png)
 
-</center>
+  
+![center 50%](images/githublogo.png)
+
 
 <br>
 <p style='text-align:right; font-size:26px'>
@@ -90,10 +89,20 @@ Quand même pas :wink:!
 
 D'abord on met à jour **pour soi** :sunglasses: :
 <span style="font-size:90%">:newspaper: Pour voir les mises à jour, on tape dans le dossier de son git (terminal) :  `git status`<br>
-:heavy_plus_sign: Pour ajouter les modifications, soit on ajoute un à un les fichiers, soit on ajoute tout :  `git add --all`<br>
+:heavy_plus_sign: Pour ajouter les modifications, soit on ajoute un à un les fichiers `git add monfichier.py`, soit on ajoute tout :  `git add --all`<br>
 :memo: On explique ce qu'on a fait : `git commit -m 'jai ajouté une image de chat'`<br>
 :arrow_upper_right: On envoie ! `git push origin master`*</span><span style="font-size:50%">
-<i>origin</i> car c'est son dépôt, <i>master</i> car c'est la branche par défaut.</span>
+<i>origin</i> car c'est son propre dépôt, <i>master</i> car c'est la branche par défaut.</span>
+
+--- 
+<br>
+<br>
+<br>
+
+# Plus pratique
+Si on ajoute à chaque fois tous les fichiers. On peut faire en une seule ligne le `git add --all` et le `git commit -m 'mon message'`  : 
+
+`git commit -a -m 'ADD : Tous mes fichiers'`
 
 --- 
 
@@ -101,7 +110,7 @@ D'abord on met à jour **pour soi** :sunglasses: :
 
 <br>
 
-- Je partage avec quiconque, et avec mes modifications
+- Je partage avec quiconque mes modifications,
 
 <br>
 
@@ -117,6 +126,8 @@ D'abord on met à jour **pour soi** :sunglasses: :
 
 Mais le protocole git est universel :
 
-![40%](images/framasoft_aime_gitlab.png)
+![center 40%](images/framasoft_aime_gitlab.png)
+
+<br>
 
 Il vaut surement mieux créer un git sur [Framagit](Framagit.org) :thumbsup: !
