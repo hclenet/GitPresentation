@@ -11,7 +11,7 @@ Initiation à Github
 
 <br>
 <p style='text-align:right; font-size:26px'>
-  Présentation par <a href='http://www.karasiak.net'>Nicolas Karasiak</a><br>
+  Présentation par <a href='http://www.karasiak.net'>Nicolas Karasiak</a> et Harold Clenet<br>
   Réalisé en markdown avec <a href='https://yhatt.github.io/marp/'>MARP</a>
 
 </p>
