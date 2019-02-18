@@ -138,6 +138,7 @@ Il vaut surement mieux créer un git sur [Framagit](Framagit.org) :thumbsup: !
 # Quelques liens potientiellement utiles
 
 [Un petit guide pratique en français](http://rogerdudler.github.io/git-guide/index.fr.html) 
+
 [Git book](https://git-scm.com/book/en/v2)
 
 
