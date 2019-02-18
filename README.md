@@ -19,3 +19,4 @@ Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.w
 - MiGoul
 - Yousra
 - Sylvie
+- Claude
