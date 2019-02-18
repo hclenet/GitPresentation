@@ -12,7 +12,7 @@ Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.w
 ## Liste des participants
 
 Étaient présents : 
-- Toi
+- David Sheeren
 - Moi
 - Yousra
 
