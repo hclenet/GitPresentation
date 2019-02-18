@@ -1,4 +1,4 @@
-# Présentation de Git
+﻿# Présentation de Git
 *Par [Nicolas Karasiak](http://www.karasiak.net)*
 
 La présentation est réalisée au format MarkDown avec [MARP](https://yhatt.github.io/marp/).
@@ -12,7 +12,10 @@ Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.w
 ## Liste des participants
 
 Étaient présents : 
-- Toi
+- David Sheeren
 - Moi
-
-
+- Eve
+- Florent
+- MiGoul
+- Yousra
+- Sylvie
