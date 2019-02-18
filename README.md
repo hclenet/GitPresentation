@@ -14,6 +14,7 @@ Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.w
 Étaient présents : 
 - David Sheeren
 - Moi
+- Eve
 - Florent
 - MiGoul
 - Yousra
