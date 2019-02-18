@@ -40,7 +40,7 @@ https://github.com/lennepkade/GitPresentation
 
 <br>
 
-## Maintenant que je sais cloné, je fais quoi ?
+## Maintenant que je sais cloner, je fais quoi ?
 
 - Je regarde mon clonage, c'est pas tous les jours qu'on clone !
 
