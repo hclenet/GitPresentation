@@ -120,6 +120,15 @@ Si on ajoute à chaque fois tous les fichiers. On peut faire en une seule ligne 
 
 ---
 
+# Quelques liens potientiellement utiles
+(Merci à David pour ce commit)
+
+[Un petit guide pratique en français](http://rogerdudler.github.io/git-guide/index.fr.html) 
+
+[Git book](https://git-scm.com/book/en/v2)
+
+---
+
 # Conclusion
 
 **Ce tutorial est conçu et partagé sur Github.**
@@ -131,21 +140,3 @@ Mais le protocole git est universel :
 <br>
 
 Il vaut surement mieux créer un git sur [Framagit](Framagit.org) :thumbsup: !
-
-
----
-
-# Quelques liens potientiellement utiles
-
-[Un petit guide pratique en français](http://rogerdudler.github.io/git-guide/index.fr.html) 
-
-[Git book](https://git-scm.com/book/en/v2)
-
-
-
-
-
-
-
-
-
