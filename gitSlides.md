@@ -40,7 +40,7 @@ https://github.com/lennepkade/GitPresentation
 
 <br>
 
-## Maintenant que je sais cloné, je fais quoi ?
+## Maintenant que je sais cloner, je fais quoi ?
 
 - Je regarde mon clonage, c'est pas tous les jours qu'on clone !
 
@@ -117,6 +117,15 @@ Si on ajoute à chaque fois tous les fichiers. On peut faire en une seule ligne 
 - Je peux demander à Nicolas de mettre à jour son dépôt avec mes modifications : ![](images/githubpullrequest.png). Mais attention,  il peut y avoir des conflits :
   - Si plusieurs personnes modifient un fichier au même endroit
   - Si ma version est en retard sur celle du créateur
+
+---
+
+# Quelques liens potientiellement utiles
+(Merci à David pour ce commit)
+
+[Un petit guide pratique en français](http://rogerdudler.github.io/git-guide/index.fr.html) 
+
+[Git book](https://git-scm.com/book/en/v2)
 
 ---
 
